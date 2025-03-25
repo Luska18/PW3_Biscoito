@@ -1,0 +1,30 @@
+img {
+    width: 230px;
+    height: 230px;
+    }
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 100vh;
+  width: 100vw;
+}
+.botao {
+  width: 230px;
+  height: 50px;
+  border: 2px solid #dd7b22;
+  border-radius: 25px;
+  margin-top: 15px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  color: #dd7b22;
+  background-color: #ffffff;
+  }
+  .reiniciar {
+  border-color: #121212;
+  color: #121212;
+  }
